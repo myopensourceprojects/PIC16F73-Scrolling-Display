@@ -1,0 +1,7 @@
+_reset: CODE, 1046 0 11
+_clock: CODE, 1035 0 11
+_main: CODE, 1110 0 25
+_scroll: CODE, 1178 0 157
+_printf: CODE, 1335 0 228
+___wmul: CODE, 1135 0 43
+Total: 475
